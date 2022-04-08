@@ -1,0 +1,16 @@
+root Route : / 
+
+Create Multiple API 
+
+Create Update user API .
+
+Research , Read and practise about express 
+
+Research , Read and practise about PostMan .
+
+Status code link: https://restfulapi.net/http-status-codes/
+
+PostMan Link : https://www.youtube.com/watch?v=VywxIQ2ZXw4
+
+Node JS express link: https://www.youtube.com/watch?v=Oe421EPjeBE
+ 

@@ -1,0 +1,10 @@
+API
+
+Connect with database 
+
+
+Each Route in backend is a function , which we called an API .
+
+V8 Engine is a compiler , which convert your code and
+represent it to your browser. Each browser is running 
+on v8 engine .                                                                                                                                                                                                                                                                                                                                                          
